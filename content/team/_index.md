@@ -1,18 +1,18 @@
 ---
 title: Team
-summary: My courses
+summary: FIWIT Team
 type: landing
 
 cascade:
   - target:
-      path: '{/courses/*/**}'
+      path: '{/team/*/**}'
     type: docs
     params:
       show_breadcrumb: true
 
 sections:
   - block: collection
-    id: courses
+    id: team
     content:
       title: Team
       filters:
