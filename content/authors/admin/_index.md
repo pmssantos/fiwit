@@ -53,7 +53,7 @@ interests:
   - Machine Learning
   - Computer Architectures
 
-team:
+education:
   - area: 
     institution: Stanford University
     icon: ""
