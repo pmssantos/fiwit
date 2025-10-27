@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Team
 summary: My courses
 type: landing
 
