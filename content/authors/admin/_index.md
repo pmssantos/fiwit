@@ -10,7 +10,7 @@ first_name: fiwit
 last_name: FIWIT
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns:
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Group
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:@meta.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
@@ -48,12 +48,12 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
+  - Wireless Communications
   - Internet
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Machine Learning
+  - Computer Architectures
 
-education:
+team:
   - area: 
     institution: Stanford University
     icon: ""
