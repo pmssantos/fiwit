@@ -14,9 +14,9 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Team
       filters:
-        tag: Course
+        tag: Team
         kinds:
           - section
     design:
