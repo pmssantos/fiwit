@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Future Internet and Wireless Technologies
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: fiwit 
+last_name: FIWIT
 
 # Pronouns (optional)
 pronouns: he/him
@@ -27,7 +27,7 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: Instituto de Telecomunicações
     url: https://ai.meta.com/
 
 # Social network links
@@ -48,13 +48,13 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - Internet
   - Computer Vision
   - Reinforcement Learning
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
+  - area: 
     institution: Stanford University
     icon: ""
     date_start: 2015-09-01
