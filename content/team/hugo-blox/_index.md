@@ -6,10 +6,10 @@ type: docs
 
 tags:
   - Hugo Blox
-  - Course
+  - Team
 
 content_meta:
-  content_type: 'Course'
+  content_type: 'Team'
   difficulty: 'Beginner'
   prerequisites: ['Markdown']
   trending: false
