@@ -8,11 +8,11 @@ tags:
   - Hugo Blox
   - Team
 
-content_meta:
-  content_type: 'Team'
-  difficulty: 'Beginner'
-  prerequisites: ['Markdown']
-  trending: false
+#content_meta:
+#  content_type: 'Team'
+#  difficulty: 'Beginner'
+#  prerequisites: ['Markdown']
+#  trending: false
 ---
 
 👋 Welcome to your shiny new site. Ready to learn more?
